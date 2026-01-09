@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333585277952",
+    "project_id": "sign-up-2ece0",
+    "storage_bucket": "sign-up-2ece0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333585277952:android:da6cccaffb7037dc22e4e5",
+        "android_client_info": {
+          "package_name": "com.shoykat.new_sign_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdgNPlNUR0TrG9PWFU6ni_Si4EE5_dQmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
